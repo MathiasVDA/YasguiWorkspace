@@ -5,4 +5,4 @@ SELECT *
 WHERE {
   ?sub ?pred ?obj .
 }
-LIMIT 100
+LIMIT 1000
